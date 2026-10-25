@@ -1,2 +1,15 @@
-# bartidy
-Organize and hide menu bar icons on Mac.
+# bartidy（仮名）
+
+**メニューバー整理**
+
+## 課題（Mac標準の不便）
+アイコンが増えると溢れるが、標準は並べ替えしかできない。
+
+## 計画している機能
+- アイコンの非表示・グループ化
+- ホットキーで展開
+- 小さな画面幅への対応
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
